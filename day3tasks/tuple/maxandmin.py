@@ -1,0 +1,5 @@
+tu = (22,66,14,99,1000)
+max = max(tu)
+min = min(tu)
+print("max : ",tu)
+print("min : ",tu)
