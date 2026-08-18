@@ -1,0 +1,10 @@
+Student dictionary:
+{'Mahesh': 89, 'Aswini': 96, 'Jaggu': 67, 'Lachi': 79}
+
+Students scoring above 50:
+Mahesh: 89
+Aswini: 96
+Jaggu: 67
+Lachi: 79
+
+Average Marks: 82.75
